@@ -1,7 +1,7 @@
-#Ball-E Bot v.0.1:
+<h1>Ball-E Bot v.0.1:</h1>
 
-##This program uses "Ball-E": pygame.org/project/1072/1916
-##This program's algorithm was taken from Frogger-AI-bot: github.com/pecurka/Frogger-AI-bot
+<h3>This program uses "Ball-E": pygame.org/project/1072/1916</h3>
+<h3>This program's algorithm was taken from Frogger-AI-bot: github.com/pecurka/Frogger-AI-bot</h3>
 
 The following program was created by Samuel Vierling, Alex Robinson, and Morgan Mussoline.
 The algorithm from Frogger-AI-bot was fit to the Ball-E game and altered for it to serve its purpose.
